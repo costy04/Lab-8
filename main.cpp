@@ -11,7 +11,7 @@ int main ()
 
     for (int i = 0; i < 3; i++)
         (*v[i]).read ();
-
+        
     sort (v,3);
     
     for (int i = 0; i < 3; i++)
